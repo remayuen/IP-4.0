@@ -11,3 +11,16 @@ body {
 p{
 line-height: 2;
 }
+
+
+/*  MENU SECTION */
+
+img{
+  height: 40%;
+  width: 50%;
+  border-radius: 30%;
+}
+
+.img-sec{
+  margin-bottom: 20px;
+}
