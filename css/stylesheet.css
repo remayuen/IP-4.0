@@ -37,7 +37,10 @@ select{
 }
 
 /* CART SECTION */
+.btn{
+margin: 20px;
 
+}
 
 
 
@@ -47,7 +50,8 @@ select{
 
 /* CONTACT-ME SECTION */
 .contact-me{
-background-color: #00FFDD;
+background-color: #180A0A;
+color: #fff;
 text-align: center;
 padding: 40px;
 margin-top: 30px;
@@ -56,6 +60,7 @@ margin-top: 30px;
 /* FOOTER SECTION */
 footer{
   text-align: center;
-  background-color: #00FFDD;
+  color: #fff;
+  background-color: #180A0A;
   padding: 20px;
 }
