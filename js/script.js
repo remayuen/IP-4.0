@@ -58,7 +58,7 @@ $(document).ready(function() {
       $(".additional-info .location").hide();
       grandTotal = grandTotal + total;
 
-      $(".additional-info h3 span").html(grandTotal);
+      $(".additional-info h3 span").html("Kshs, " + grandTotal);
     });
 
     $(".btn.yes").click(function() {
