@@ -8,7 +8,8 @@ The user needs to have selection of flavors and size of pizza they desire and it
 After making a choice the user can either checkout or choose to make another order.
 When completed and payment is made the pizza will be on route to the given location.
 ## Other Projects
-No other projects, this my first. Looking forward to others.
+I have a total of 4 projects . You can find the link to the projects in my github repositories.
+
 ## Known Bugs
 The site might have an update in the near future but as for now no challenges.
 ## Technologies Used
