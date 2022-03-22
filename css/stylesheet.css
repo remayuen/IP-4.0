@@ -47,7 +47,7 @@ select{
 
 /* CONTACT-ME SECTION */
 .contact-me{
-background-color: #39AEA9;
+background-color: #00FFDD;
 text-align: center;
 padding: 40px;
 margin-top: 30px;
@@ -56,6 +56,6 @@ margin-top: 30px;
 /* FOOTER SECTION */
 footer{
   text-align: center;
-  background-color: #39AEA9;
+  background-color: #00FFDD;
   padding: 20px;
 }
