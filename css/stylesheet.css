@@ -12,8 +12,15 @@ p{
 line-height: 2;
 }
 
+.anime-img{
+  float: right;
+}
 
 /*  MENU SECTION */
+
+h1{
+  padding-bottom: 30px;
+}
 
 img{
   height: 40%;
@@ -23,4 +30,8 @@ img{
 
 .img-sec{
   margin-bottom: 20px;
+}
+
+select{
+  margin-top: 10px;
 }
