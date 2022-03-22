@@ -68,7 +68,6 @@ $(document).ready(function() {
       $(".additional-info .location").show();
       $(".additional-info h3 span").html(grandTotal + 300);
     });
-
     $(".btn.no").click(function() {
       $(".additional-info h5").hide();
       $(".btn.yes").hide();
