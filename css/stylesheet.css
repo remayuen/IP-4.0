@@ -1,3 +1,13 @@
-body{
+body {
   font-family: 'Open Sans', sans-serif;
+}
+
+/* HEADING SECTION */
+
+.heading-Section{
+  padding: 40px;
+}
+
+p{
+line-height: 2;
 }
