@@ -20,7 +20,16 @@ line-height: 2;
 
 h1{
   padding-bottom: 30px;
+  font-family: 'Smokum', cursive;
+  font-size: 5rem;
+  color: #E83A14;
 }
+h2{
+  padding-bottom: 30px;
+  font-family: 'Smokum', cursive;
+  font-size: 3rem;
+}
+
 
 img{
   height: 40%;
